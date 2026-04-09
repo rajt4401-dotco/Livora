@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.pkl
+*.joblib
+venv/
+.env
+*.log
+models/saved/

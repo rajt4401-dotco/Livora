@@ -1,0 +1,144 @@
+.topnav {
+  height: 64px;
+  background: var(--bg-secondary);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  backdrop-filter: blur(12px);
+}
+
+.topnav-left {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.topnav-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.topnav-menu-btn {
+  display: none;
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  cursor: pointer;
+  padding: 6px;
+  border-radius: var(--radius-sm);
+  transition: var(--transition);
+}
+
+.topnav-menu-btn:hover {
+  background: var(--bg-card);
+  color: var(--text-primary);
+}
+
+.topnav-welcome {
+  display: flex;
+  align-items: baseline;
+}
+
+.topnav-greet {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+}
+
+.topnav-name {
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.topnav-wave {
+  font-size: 1rem;
+}
+
+.topnav-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 8px 14px;
+  color: var(--text-muted);
+  transition: var(--transition);
+}
+
+.topnav-search:focus-within {
+  border-color: var(--accent);
+  color: var(--text-secondary);
+}
+
+.topnav-search-input {
+  background: none;
+  border: none;
+  outline: none;
+  color: var(--text-primary);
+  font-size: 0.8rem;
+  width: 160px;
+  font-family: 'Inter', sans-serif;
+}
+
+.topnav-search-input::placeholder {
+  color: var(--text-muted);
+}
+
+.topnav-icon-btn {
+  width: 38px;
+  height: 38px;
+  border-radius: var(--radius-sm);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: var(--transition);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.topnav-icon-btn:hover {
+  background: var(--bg-card-hover);
+  color: var(--text-primary);
+}
+
+.notif-dot {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--accent-danger);
+  border: 2px solid var(--bg-secondary);
+  animation: pulse 2s infinite;
+}
+
+@media (max-width: 900px) {
+  .topnav-menu-btn {
+    display: flex;
+  }
+
+  .topnav-search {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .topnav {
+    padding: 0 14px;
+  }
+
+  .topnav-welcome {
+    display: none;
+  }
+}

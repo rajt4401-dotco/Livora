@@ -1,0 +1,133 @@
+text,category
+water leakage in bathroom,Plumbing
+pipe is broken and water is flooding,Plumbing
+drain is blocked and water is not draining,Plumbing
+tap is not working and no water coming,Plumbing
+toilet is overflowing,Plumbing
+hot water not available in morning,Plumbing
+flush tank is broken,Plumbing
+sink drain is clogged,Plumbing
+bathroom pipe burst,Plumbing
+water supply not working,Plumbing
+wifi is not working in my room,Network
+internet connection is very slow today,Network
+router is not responding,Network
+network keeps disconnecting every few minutes,Network
+wifi password is not working,Network
+no internet connection since yesterday,Network
+cannot connect to college network,Network
+broadband speed is very poor,Network
+network signal is very weak in my block,Network
+internet outage in block b,Network
+light is not working in the room,Electrical
+fan stopped working suddenly,Electrical
+ac is not cooling the room properly,Electrical
+power cut in my room,Electrical
+switch board is giving sparks,Electrical
+electrical socket is broken,Electrical
+main fuse blew out in corridor,Electrical
+ac remote is not working,Electrical
+room heater is not heating,Electrical
+ceiling fan making loud noise,Electrical
+food quality in mess is very bad,Mess
+meal was not properly cooked today,Mess
+mess is not providing proper diet,Mess
+food is tasteless and unhygienic,Mess
+breakfast was not served on time,Mess
+mess timing is very inconvenient,Mess
+food portions are very small,Mess
+mess menu needs more variety,Mess
+vegetables were not fresh today,Mess
+mess staff behaviour is rude,Mess
+chair in my room is broken,Furniture
+table leg is damaged and wobbly,Furniture
+bed is broken and uncomfortable to sleep,Furniture
+cupboard door does not close properly,Furniture
+wardrobe lock is broken,Furniture
+study table has a crack,Furniture
+chair seat is torn,Furniture
+bookshelf is falling apart,Furniture
+mattress is very dirty and old,Furniture
+sofa in common room is broken,Furniture
+room is very dirty and not cleaned,Housekeeping
+bathroom was not cleaned today,Housekeeping
+corridor is full of garbage and trash,Housekeeping
+cleaning staff does not come regularly,Housekeeping
+room smells very bad due to garbage,Housekeeping
+dust and cobwebs all over the room,Housekeeping
+cleaning schedule is not followed,Housekeeping
+trash bin is overflowing,Housekeeping
+sweeping not done in common area,Housekeeping
+janitor is not doing his job,Housekeeping
+roommate is making too much noise at night,Noise
+loud music being played after midnight,Noise
+constant noise from next room disturbing studies,Noise
+people shouting in the corridor,Noise
+construction noise during exam period,Noise
+generator is very loud near my room,Noise
+noise from gym equipment is disturbing,Noise
+students playing loud music in common room,Noise
+late night parties in hostel creating noise,Noise
+dog barking outside hostel at night,Noise
+lock of main gate is broken,Security
+no security guard at night,Security
+unauthorized person seen in hostel,Security
+ccty cameras not working,Security
+my room key is not working,Security
+gate is left open and unsecured,Security
+hostel security needs to be improved,Security
+found suspicious item near hostel,Security
+theft reported in the corridor,Security
+visitor entry is not being checked,Security
+need maintenance of common room tv,General
+hot water dispenser not working in pantry,General
+laundry machine is broken,General
+request for additional study desk lamp,General
+parking area lights not working,General
+elevator is not working,General
+fire extinguisher needs to be replaced,General
+first aid kit is empty,General
+suggestion for changing mess timing,General
+request for gym equipment maintenance,General
+short circuit and smoke from switch board,Electrical
+fire in room due to electrical fault,Emergency
+main power lines are burning and sparking,Emergency
+heavy smoke coming from corridor electrical panel,Emergency
+short circuit in the wall socket,Electrical
+my room got short circuit and sparks,Electrical
+fire emergency in hostel block,Emergency
+burning smell from AC wires,Emergency
+circuit breaker tripped and burning smell,Emergency
+short circuit reported in common room,Electrical
+ambulance needed for student injury,Emergency
+medical emergency in my room,Emergency
+gas leak smell in the pantry,Emergency
+student fell down and unconscious,Emergency
+severe bleeding from accidental cut,Emergency
+my room is on fire help,Emergency
+heavy smoke in the corridor emergency,Emergency
+someone is collapsed in the gym,Emergency
+i need an ambulance immediately,Emergency
+reporting a fire in the mess kitchen,Emergency
+electrical fire in the main fuse box,Emergency
+violent fight in the corridor emergency,Emergency
+found a student unconscious in the bathroom,Emergency
+gas leak smell is very strong urgent,Emergency
+major water flood in room emergency,Emergency
+thief caught in block b hostel,Emergency
+emergency evacuation required for floor 3,Emergency
+severe electric shock to roommate,Emergency
+my room is on fire please help,Emergency
+there is a medical emergency in my room help fast,Emergency
+help my room is on fire immediately,Emergency
+critical injury in common room help,Emergency
+smoke is filling up my room please check,Emergency
+i think there is a gas leak help,Emergency
+fire emergency call an ambulance,Emergency
+accident in the corridor someone is hurt,Emergency
+hostel is on fire evacuation needed,Emergency
+fire in block b hallway help immediately,Emergency
+student is unconscious please send doctor,Emergency
+emergency help fire in my room,Emergency
+my bed is on fire help,Emergency
+wire is on fire please come fast,Emergency
